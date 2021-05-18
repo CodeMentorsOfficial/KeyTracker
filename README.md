@@ -12,5 +12,5 @@
 - Apple GUI : yes - crossplatform GUI
 - Console GUI : no
 
-### Only CSS files are added to this repository
+### Only .cpp and project files are added to this repository
 - include, lib, and DLL files are omitted
