@@ -1,4 +1,4 @@
-# src (folder)
+# KeyTracker (Project folder)
 
 **Description**
 - All required files for the program to function
