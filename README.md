@@ -15,4 +15,6 @@
 ### Only .cpp and project files are added to this repository
 - include, lib, and DLL files are omitted
 
+***
+
 `More information found in the 'KeyTracker' project folder`
