@@ -12,5 +12,5 @@
 - Apple GUI : yes
 - Console GUI : no
 
-### include, build, lib, and DLLs
-- These files have been ommitted from the repository due to size
+### Only CSS files are added to this repository
+- include, lib, and DLL files are omitted
