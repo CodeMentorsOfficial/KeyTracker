@@ -7,9 +7,9 @@
 - Console tracking : no
 
 **GUI:**
-- Windows GUI : yes
-- Linux GUI : yes
-- Apple GUI : yes
+- Windows GUI : yes - crossplatform GUI
+- Linux GUI : yes - crossplatform GUI
+- Apple GUI : yes - crossplatform GUI
 - Console GUI : no
 
 ### Only CSS files are added to this repository
