@@ -12,9 +12,7 @@
 - Apple GUI : not implemented
 - Console GUI : no
 
-## Goals
-
-**GUI:**
+**Goals:**
 
 - Windows keytracking : yes
 - Linux keytracking : no
