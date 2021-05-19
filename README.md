@@ -25,7 +25,7 @@
 - Console GUI : no
 
 ### Only .cpp and project files are added to this repository
-- include, lib, and DLL files are omitted
+- header, lib, and DLL files are omitted
 
 ***
 
