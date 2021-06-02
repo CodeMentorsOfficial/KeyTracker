@@ -29,6 +29,6 @@
 
 ***
 
-`Progress suspended temporarily
+`Progress suspended temporarily`
 
-More information found in the 'KeyTracker' project folder`
+`More information found in the 'KeyTracker' project folder`
